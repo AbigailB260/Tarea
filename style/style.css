@@ -13,6 +13,40 @@ body {
     width: 100%;
 }
 
+.contenedor {
+    display: flex;
+}
+
+.elemento {
+    width: 25%;
+}
+
+.CajaMadre {
+    display: flex;
+    background-color: yellow;
+}
+
+.hija1 {
+    width: 25%;
+    height: 100px;
+    background-color: green;
+}
+.hija2 {
+    width: 25%;
+    height: 100px;
+    background-color: blue;
+}
+.hija3 {
+    width: 25%;
+    height: 100px;
+    background-color: orange;
+}
+.hija4 {
+    width: 25%;
+    height: 100px;
+    background-color: brown;
+}
+
 .Caja1 {
     width: 50%;
     height: 300px;
